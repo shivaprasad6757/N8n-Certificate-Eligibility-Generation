@@ -35,10 +35,10 @@ To automatically evaluate student performance data and send personalized email n
 - Encouragement or next steps if not eligible
 
 **This automation makes the process:**
-✔️ Hands-free
-✔️ Accurate
-✔️ Scalable
-✔️ Time-efficient
+- ✔️ Hands-free
+- ✔️ Accurate
+- ✔️ Scalable
+- ✔️ Time-efficient
 
 **💡 Key Learnings**
 - Through this real-time project, I gained hands-on experience in:
