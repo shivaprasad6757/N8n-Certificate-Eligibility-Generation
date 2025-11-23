@@ -10,7 +10,7 @@ To automatically evaluate student performance data and send personalized email n
 - ❌ Not Eligible
 
 **🔧 Project Workflow**
- **📋 1. Data Collection**
+- **📋 1. Data Collection**
 - Student performance data captured through Google Forms
 - Responses stored in Google Sheets
 
